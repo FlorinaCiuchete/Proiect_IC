@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="10" width="1060" height="810" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-2" value="Cofetaria Deliciu Magic" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="415" y="20" width="290" height="60" as="geometry" />
+          <mxGeometry x="415" y="15" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-6" value="Inovatie" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="970" y="40" width="60" height="20" as="geometry" />
@@ -17,27 +17,27 @@
           <mxGeometry x="780" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="50" width="1060" height="80" as="geometry" />
+          <mxGeometry x="20" y="50" width="1040" height="80" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-10" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="100" width="1040" height="90" as="geometry" />
+          <mxGeometry x="40" y="100" width="1010" height="90" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-15" value="Despre noi:&lt;div&gt;&lt;br&gt;&lt;div&gt;Suntem o cofetarie artizanala dedicata crearii celor mai delicioade prajituri, torturi si delicii dulci.&lt;/div&gt;&lt;div&gt;Folosim doar ingrediente naturale si retete traditionale pentru a va aduce gustul autentic al deserturilor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contact: Str Dulce nr. 10 Timisoara&lt;/div&gt;&lt;div&gt;Email: contact@deliciumagic.ro&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="643" width="1010" height="180" as="geometry" />
         </mxCell>
         <UserObject label="Lista produse" link="data:page/id,TiS2xbE8Ivzjr1Q1RVLR" id="LSxQC55kF-KHIEngpfi7-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="220" y="115" width="120" height="60" as="geometry" />
+            <mxGeometry x="220" y="115" width="130" height="65" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Perosnalizeaza un tort" link="data:page/id,5hPB0sX6ZY2f0V3ly8Jn" id="dty7JkatceRnSuiB4Dzs-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="500" y="115" width="120" height="60" as="geometry" />
+            <mxGeometry x="500" y="115" width="130" height="65" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Kit-uri pentru degustari" link="data:page/id,1f064Z-dTS9WNaBg1cxo" id="dty7JkatceRnSuiB4Dzs-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="790" y="115" width="120" height="60" as="geometry" />
+            <mxGeometry x="790" y="115" width="130" height="65" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dty7JkatceRnSuiB4Dzs-6" value="Rafinament&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
