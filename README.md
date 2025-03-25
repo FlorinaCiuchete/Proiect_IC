@@ -1,1 +1,3 @@
 # Proiect_IC
+
+Atunci cand ai un eveniment (aniversare, nunta) si vrei sa comanzi un tort, trebuie mereu sa suni la cofetării sau sa mergi fizic sa vorbesti cu personalul de acolo in cazul in care vrei sa faci o comanda macar putin personalizata. Noi am vrea sa cream o aplicatie prin care sa nu mai fie nevoie de contactul acesta, sa poti pe site ul nostru sa iti personalizezi dintr o lista de arome pentru blat, creme, etc. totul asa cum iti doresti. Eventual si o parte vizuala a cum va arata, ce vrei sa scrie pe el si chiar comenzi de creme si blaturi separate pentru a ti face combinatiile singur inainte de marea comanda.
